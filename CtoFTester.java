@@ -3,6 +3,7 @@ public class CtoFTester {
           //final results go here
           //celsiusToFahrenheit = 50.0
           //fahrenheitToCelsius = 35.0
+          //Tejas gave me the idea for adding the degrees!
           System.out.println(celsiusToFahrenheit(10.0) + " ºF");
           System.out.println(fahrenheitToCelsius(95.0) + " ºC");
      }
