@@ -3,8 +3,8 @@ public class CtoFTester {
           //final results go here
           //celsiusToFahrenheit = 50.0
           //fahrenheitToCelsius = 35.0
-          System.out.println(celsiusToFahrenheit(10.0));
-          System.out.println(fahrenheitToCelsius(95.0));
+          System.out.println(celsiusToFahrenheit(10.0) + " ºF");
+          System.out.println(fahrenheitToCelsius(95.0) + " ºC");
      }
      public static double celsiusToFahrenheit(double c) {
           return ((c * 9 / 5) + 32);
